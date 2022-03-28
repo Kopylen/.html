@@ -1,0 +1,2 @@
+# .html
+&lt;!DOCTOTYPE HTML> 
